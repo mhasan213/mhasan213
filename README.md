@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/mhasan213/mhasan213/blob/main/code.gif?raw=true" width="500" height="300" />
 
 
-## I'm a Programmer, Designer, Developer and Gamer!! <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e475dpkiu01phfpcv6sbl7rduj3wvww13cj9sjrdexc&rid=giphy.gif&ct=g" width="30">
+## I'm a Programmer, Designer, Developer and Gamer!! <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif?cid=ecf05e47wxqef5ki2l1kcqm9k0ugx0ocjgg4ntlk36ep2m56&rid=giphy.gif&ct=s" width="30">
 - ✍ You can find my projects here 
 - 🌱 I’m currently learning React and Django
 - 💬 Ask me about ... Anything
