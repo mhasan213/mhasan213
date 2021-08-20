@@ -1,6 +1,6 @@
 ### Hello World, I'm Mahmudul  👋
 
- <img align="right" alt="GIF" src="https://github.com/mhasan213/mhasan213/blob/main/code.gif?raw=true" width="400" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/mhasan213/mhasan213/blob/main/code.gif?raw=true" width="500" height="300" />
 
 
 ## I'm a Programmer, Designer, Developer and Gamer!!
