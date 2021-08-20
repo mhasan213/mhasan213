@@ -10,10 +10,13 @@
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug
 
 <br />
-<h3>📫 How to reach me:</h3>
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## How to reach me
+[<img align="left" alt="mahmudul-hasan9 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="m.h.shihab09@gmail.com | E-mail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" />][e-mail]
 
+<br />
 
 
 [instagram]: https://https://www.instagram.com/zweins3/
 [linkedin]: https://linkedin.com/in/mahmudul-hasan9
+[e-mail]: m.h.shihab09@gmail.com
