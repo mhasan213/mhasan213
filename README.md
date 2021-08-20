@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/mhasan213/mhasan213/blob/main/code.gif?raw=true" width="500" height="300" />
 
 
-## I'm a Programmer, Designer, Developer and Gamer!!
+## I'm a Programmer, Designer, Developer and Gamer!! <img src = "https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504"/giphy.gif" width="50">
 - ✍ You can find my projects here 
 - 🌱 I’m currently learning React and Django
 - 💬 Ask me about ... Anything
