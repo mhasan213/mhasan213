@@ -6,7 +6,7 @@
 ## I'm a Programmer, Designer, Developer and Gamer!! <img src="https://media.giphy.com/media/WQfOqmNxHLSdu258VJ/giphy.gif?cid=ecf05e47wxqef5ki2l1kcqm9k0ugx0ocjgg4ntlk36ep2m56&rid=giphy.gif&ct=s" width="30">
 - ✍ You can find my projects here 
 - 🌱 I’m currently learning React and Django
-- 💬 Ask me about ... Anything
+- 💬 Ask me about ... Anything?
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug
 
 <h3>📫 How to reach me:</h3>
