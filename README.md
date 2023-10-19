@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/mhasan213/mhasan213/blob/main/code.gif?raw=true" width="500" height="300" />
 
 
-## I'm a Analyst, Designer, Developer and Gamer!! <img src="https://media.giphy.com/media/WQfOqmNxHLSdu258VJ/giphy.gif?cid=ecf05e47wxqef5ki2l1kcqm9k0ugx0ocjgg4ntlk36ep2m56&rid=giphy.gif&ct=s" width="30">
+## I'm an Analyst, Designer, Developer and Gamer!! <img src="https://media.giphy.com/media/WQfOqmNxHLSdu258VJ/giphy.gif?cid=ecf05e47wxqef5ki2l1kcqm9k0ugx0ocjgg4ntlk36ep2m56&rid=giphy.gif&ct=s" width="30">
 - ✍ You can find my projects here 
 - 🌱 I’m currently focusing on Analytics
 - 💬 Interested in Product Management 
