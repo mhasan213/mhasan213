@@ -5,7 +5,7 @@
 
 ## I'm an Analyst, Designer, Developer and Gamer!! <img src="https://media.giphy.com/media/WQfOqmNxHLSdu258VJ/giphy.gif?cid=ecf05e47wxqef5ki2l1kcqm9k0ugx0ocjgg4ntlk36ep2m56&rid=giphy.gif&ct=s" width="30">
 - ✍ You can find my projects here 
-- 🌱 I’m currently focusing on Analytics
+- 🌱 I’m currently focusing on Business Analytics
 - 💬 Interested in Product Management 
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug
 
